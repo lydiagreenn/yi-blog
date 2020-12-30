@@ -1,17 +1,17 @@
 <aside id="sitebar">
     <!--erweima-->
     <div class="sitebar_list">
-        <h4 class="sitebar_title">我的相关网站</h4>
+        <h4 class="sitebar_title">我的github主页</h4>
         <p>
-            <a href="//shang.qq.com/wpa/qunwpa?idkey=a04fa5399b8523888271d9fefd526eb7d77256b072a9f5dfa80114ff84287ea6" target="_blank">
-                <img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Thinkphp爱好交流群" title="Thinkphp爱好交流群" />加入Thinkphp爱好交流群
+            <a href="https://github.com/lydiagreenn" target="_blank">
+                <img border="0" src="https://avatars1.githubusercontent.com/u/46469014?s=60&u=ab84db640e18457e070995759fc067b9a5315570&v=4" alt="我的主页" title="我的主页" />
             </a>
         </p>
         <p>
-            <a href="https://www.wolfcode.com.cn?from={:request()->server('SERVER_NAME')}" target="_blank">作者 — — Wolf Blog</a>
+            <a>课设作者 — — 易洁、月颖、一丹</a>
         </p>
     </div>
     <div class="mydiv" id="mydiv">
-        <a target="_blank" href="https://www.wolfcode.com.cn/go/aliyun/"><img src="/static/ad/300-250.jpg" ></a>
+        <a target="_blank" href="https://github.com/lydiagreenn"><img src="/static/ad/300-250.jpg"></a>
     </div>
 </aside>

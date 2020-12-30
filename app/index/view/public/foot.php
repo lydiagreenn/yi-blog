@@ -8,7 +8,7 @@
                 <!--<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="#">友链1</a></li>-->
             </ul>
             <p class="banquan">
-                笔记！
+                <!--  笔记！ -->
             </p>
         </div>
         <div class="left">
@@ -34,4 +34,5 @@
 <script type="text/javascript" src="/src/blog/js/blog.js?v=1.0"></script>
 <script type="text/javascript" src="https://apps.bdimg.com/libs/jquery-lazyload/1.9.5/jquery.lazyload.js"></script>
 </body>
+
 </html>
